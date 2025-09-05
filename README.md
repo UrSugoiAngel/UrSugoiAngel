@@ -1,5 +1,12 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UrSugoiAngel&hide=javascript,css,scss,html&exclude_repo=rratos&theme=tokyonight)
 
+Engineering Student @ University of Alberta
+
+I love OSDev and Low Level Programming (even assembly!)
+
+Feel free to ask me about anything, I don't gatekeep
+
+
 <!--
 **UrSugoiAngel/UrSugoiAngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
