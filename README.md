@@ -5,7 +5,7 @@
 ❤️ I love OSDev and Low Level Programming (even assembly!)
 
 ✉️ Feel free to ask me about anything, I don't gatekeep
- ↳ 🌎 EN/JP/FR
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ 🌎 EN/JP/FR
 
 
 <!--
