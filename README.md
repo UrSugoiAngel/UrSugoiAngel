@@ -1,11 +1,11 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UrSugoiAngel&hide=javascript,css,scss,html&exclude_repo=rratos&theme=tokyonight)
 
-🏫 Engineering Student @ University of Alberta
+🏫 Undergrad CompSci/Linguistics @ the University of Calgary
 
 ❤️ I love OSDev and Low Level Programming (even assembly!)
 
 ✉️ Feel free to ask me about anything, I don't gatekeep
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ 🌎 EN/JP/FR
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ 🌎 EN/JP/CN/RU
 
 
 <!--
