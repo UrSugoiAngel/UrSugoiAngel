@@ -5,8 +5,9 @@
 ❤️ I love OSDev and Low Level Programming (even assembly!)
 
 ✉️ Feel free to ask me about anything, I don't gatekeep
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ 🌎 EN/JP/CN/RU
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ I speak: 🇬🇧/🇯🇵/🇷🇺/🇨🇳
 
+The majority of my code never touches this website, mostly just what I need to transfer between machines, but take a look around nonetheless.
 
 <!--
 **UrSugoiAngel/UrSugoiAngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
